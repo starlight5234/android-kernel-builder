@@ -4,7 +4,7 @@
 
 # Device info
 DEVICE_CODENAME=citrus
-DEFCONFIG="vendor/stormbreaker-citrus_defconfig"
+DEFCONFIG="vendor/citrus-perf_defconfig"
 
 # Device info
 ARCH=arm64
